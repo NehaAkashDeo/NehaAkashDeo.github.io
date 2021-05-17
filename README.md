@@ -1,2 +1,2 @@
 # NehaAkashDeo.github.io
-Website for wen design 
+Website for web design 
